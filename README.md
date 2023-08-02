@@ -6,3 +6,5 @@ Other than that, I am interested in building better academic systems, and help p
 
 - 🏠 https://bastian.rieck.me
 - 📺 https://www.youtube.com/@Pseudomanifold
+
+![My GitHub stats](https://github-readme-stats-red-one-31.vercel.app/api/?username=Pseudomanifold&show_icons=true&count_private=True&include_all_commits=True)
